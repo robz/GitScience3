@@ -1,4 +1,4 @@
 This is some text!
 Woohoo I love me some text!
-This text is *actually* pretty dang cool, doncha know.
+This text is ***seriously*** pretty dang cool, doncha know.
 Yay.
